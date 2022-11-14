@@ -1,1 +1,30 @@
 /* write your override styles here */
+#wall .tag-1{
+    display: none;
+}
+
+#tag-2{
+    display: none;
+    opacity: 0;
+}
+
+#wall .slick{
+    border: solid 20px black;
+    opacity: 0;
+    display: none;
+}
+
+#wall .slick{
+    opacity: 0;
+    display: none;
+}
+
+#tag-6{
+    opacity: 0;
+    display: none;
+}
+
+#tag-4{
+    opacity: 0;
+    display: none;
+}
